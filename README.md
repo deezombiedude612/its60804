@@ -2,10 +2,13 @@
 ITS60804: Introduction to Object-Oriented Programming
 
 ### Quiz Bank
-Objective: Allows users to create MCQ quizzes for players to play with
+A console application created using Java, the application aims to carry out the following:
++ enable quiz creators to create quizzes
++ allow quiz creators to manage quizzes created
++ allow quiz players to interact and play with the quizzes created
 
 ### Team Members
-Abigail Achiamma Joshua<br/>
-Henry (Hian Wee) Heng<br/>
-Xiaoxi (Christina) Kang<br/>
-Ly Dion Yap
++ Henry (Hian Wee) Heng
++ Abigail Achiamma Joshua
++ Xiaoxi (Christina) Kang
++ Ly Dion Yap
